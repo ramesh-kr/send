@@ -141,7 +141,7 @@
     "body-parser": "^1.19.0",
     "choo": "^6.13.3",
     "cldr-core": "^35.1.0",
-    "convict": "^5.0.0",
+    "convict": "^6.2.4",
     "express": "^4.17.1",
     "express-ws": "github:dannycoates/express-ws",
     "fluent": "^0.12.0",
